@@ -16,3 +16,4 @@ algorithm problems
 * [Beakjoon-16917](https://github.com/codingbotPark/algorithm/blob/main/baekjoon-16917.c)
 
 ## PYTHON
+* [baekjoon단계별로풀기](https://github.com/codingbotPark/baekjoon-jh05013-s-course)
